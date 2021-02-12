@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     Spinner mSpinner;
     TextView mOutputSpinnerTv;
-    //options to be displayed in spinner
+    //options to be displayed in spinnersdahfweafhlajkdshf iweehfo
     String[] mOptions = {"Canada", "Pakistan", "Turkey", "US"};
 
     @Override
